@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Here is a summary of my experience as a teaching assistant.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Yale University
 
-Organize your courses by years, topics, or universities, however you like!
+- **Econometrics II** (Doctoral): Prof. Edward Vytlacil, 2023
+- **Microeconomics** (Master's): Prof. Michael Boozer, 2022
+- **Firms, Markets, and Competition** (Undergraduate): Prof. Philip Haile, 2018
+
+### Seoul National University
+
+- **Econometrics** (Undergraduate): Prof. Yoon-Jae Whang, 2015, 2014, 2013
+- **Introductory Statistics for Economists** (Undergraduate): Prof. Yoon-Jae Whang, 2014
