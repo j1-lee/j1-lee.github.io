@@ -164,6 +164,8 @@ blockquote {
 
 .profile {
   width: 100%;
+  padding-left: 25%;
+  padding-right: 25%;
 
   .more-info {
     margin-bottom: 5px;
@@ -185,9 +187,10 @@ blockquote {
   margin-right: 1rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 768px) {
   .profile {
     width: 30%;
+    padding: inherit;
 
     .address {
       p {
@@ -353,7 +356,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
