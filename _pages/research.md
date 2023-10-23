@@ -17,3 +17,7 @@ nav_order: 2
 ### Work in Progress
 
 - **Correct standard errors in discrete choice demand estimation when using Hausman instruments**
+
+### Publications
+
+- **Long-term changes in old-age incomes: Results from cohort analyses** (2015) with Chulhee Lee, _Journal of Korean Economic Studies_, 33(3), 5–34, in Korean.
