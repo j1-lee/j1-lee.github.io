@@ -10,7 +10,7 @@ nav_order: 2
 
 ### Working Papers
 
-- **Feasible inference on discrete choice demand with weak instruments** _Job market paper_
+- **Computationally feasible identification-robust inference on discrete choice demand** _Job Market Paper_
 
 - **[Distributional impacts of centralized school choice]({{ lee_son_pdf }})** (with [Suk Joon Son](https://sites.google.com/view/sukjoon-son))
 
