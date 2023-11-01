@@ -23,7 +23,7 @@ nav_order: 2
 
 - **Correct standard errors in discrete choice demand estimation when using Hausman instruments**
 
-  Existing asymptotic results for the BLP estimator are based on the independence of instruments and structural errors across markets. However, I find that a class of instruments, commonly referred to as Hausman instruments, violates this assumption by introducing correlation across markets, resulting in inaccuracies in the conventionally calculated standard errors. I confirm the phenomenon through Monte Carlo simulations. Then I apply techniques from spatial econometrics and time series econometrics to address the across-market correlation, discussing methods to correctly calculate the standard errors for different subclasses of Hausman instruments.
+  Existing asymptotic results for the BLP estimator are based on the independence of the instruments across markets. However, I find that a class of instruments, commonly referred to as Hausman instruments, violates this assumption by introducing correlation across markets. Combined with the fact that prices are endogenous, this results in inaccuracies in the conventionally calculated standard errors. I confirm this phenomenon through Monte Carlo simulations. Then I apply techniques from spatial econometrics and time-series econometrics to address the across-market correlation, discussing methods to correctly calculate the standard errors for different subclasses of Hausman instruments.
 
 ### Publications
 
