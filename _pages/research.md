@@ -8,6 +8,7 @@ nav_order: 2
 
 {% assign lee_son_pdf = "assets/pdf/lee_son_distributional_impacts_2023_oct.pdf" | relative_url %}
 {% assign jmp_pdf = "assets/pdf/jmp_feasible_robust.pdf" | relative_url %}
+{% assign jmp_pdf = "assets/pdf/hausman.pdf" | relative_url %}
 
 ### Working Papers
 
@@ -19,11 +20,9 @@ nav_order: 2
 
   **Abstract**: Informational frictions in centralized school choice can significantly influence its distributional consequences. Recognition of such frictions is also necessary to accurately measure welfare. We build a model of school applications, allowing applicants to consider only a limited set of schools and to have mistaken beliefs about their admission chances. Quasi-experimental variation and rich information in students’ rank-ordered lists enable identification. Utilizing this model, we evaluate the impacts of centralized school choice in New York City on racial segregation and equity in welfare, decomposing the contributions of the frictions and the preferences of students and schools. We also quantify matching stability and deviations from truthful reporting. Our results show that while school choice improves welfare across races, limited consideration substantially compromises these gains, particularly for Black and Hispanic students. A counterfactual policy involving personalized school recommendations designed using our model is projected to recover 20–36% of the welfare losses.
 
-### Work in Progress
+- **[Standard errors in demand estimation with Hausman instruments]({{ hausman }})**
 
-- **Correct standard errors in discrete choice demand estimation when using Hausman instruments**
-
-  Existing asymptotic results for the BLP estimator are based on the independence of the instruments across markets. However, I find that a class of instruments, commonly referred to as Hausman instruments, violates this assumption by introducing correlation across markets. Combined with the fact that prices are endogenous, this results in inaccuracies in the conventionally calculated standard errors. I confirm this phenomenon through Monte Carlo simulations. Then I apply techniques from spatial econometrics and time-series econometrics to address the across-market correlation, discussing methods to correctly calculate the standard errors for different subclasses of Hausman instruments.
+  **Abstract**: This paper shows how the common practice of calculating the standard errors of demand estimators can be inaccurate when using Hausman instruments. The typical method ignores a correlation pattern arising from essential endogeneity of Hausman instruments, usually underestimating the true variance of the estimators as a consequence. I explore methods to robustly estimate the variance of the demand estimator for some popular classes of Hausman instruments, including region-based and adjacency-based instruments. Monte Carlo simulations are conducted to evaluate their performances. The results suggest using moderately scoped Hausman instruments and correlation-robust variance estimators, to reduce the true variance of the demand estimator and to accurately estimate the variance.
 
 ### Publications
 
