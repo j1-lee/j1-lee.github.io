@@ -15,5 +15,5 @@ nav_order: 3
 
 ### Seoul National University
 
-- **Econometrics** (Undergraduate): Prof. Yoon-Jae Whang, 2015, 2014, 2013
+- **Econometrics** (Undergraduate): Prof. Yoon-Jae Whang, 2013–2015
 - **Introductory Statistics for Economists** (Undergraduate): Prof. Yoon-Jae Whang, 2014

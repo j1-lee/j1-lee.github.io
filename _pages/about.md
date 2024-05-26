@@ -14,8 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a Ph.D. candidate in Economics at Yale University.
-
-**Research Interests**: Industrial Organization, Applied Econometrics
+Hi, I am Jaewon Lee. I received my PhD in Economics from Yale University in May 2024. My research interests include Industrial Organization and Applied Econometrics.
 
 **E-mail**: <jaewon.lee@yale.edu>
