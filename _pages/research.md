@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-{% assign lee_son_pdf = "assets/pdf/lee_son_distributional_impacts_2023_oct.pdf" | relative_url %}
+{% assign lee_son_pdf = "assets/pdf/lee_son_distributional_impacts.pdf" | relative_url %}
 {% assign jmp_pdf = "assets/pdf/jmp_feasible_robust.pdf" | relative_url %}
 {% assign hausman = "assets/pdf/hausman.pdf" | relative_url %}
 
