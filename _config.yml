@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jaewon
 middle_name:
 last_name: Lee
-email: jaewon.lee@yale.edu
+email: jaewon.lee@compasslexecon.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A Ph.D. candidate in Economics at Yale University
 footer_text: >
