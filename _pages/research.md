@@ -9,12 +9,17 @@ nav_order: 2
 {% assign lee_son_pdf = "assets/pdf/lee_son_distributional_impacts.pdf" | relative_url %}
 {% assign jmp_pdf = "assets/pdf/jmp_feasible_robust.pdf" | relative_url %}
 {% assign hausman = "assets/pdf/hausman.pdf" | relative_url %}
+{% assign liability_insurance = "assets/pdf/liability_insurance.pdf" | relative_url %}
 
 ### Working Papers
 
 - **[Distributional impacts of centralized school choice]({{ lee_son_pdf }})** (with [Suk Joon Son](https://sites.google.com/view/sukjoon-son))
 
   **Abstract**: Informational frictions in centralized school choice can significantly influence its distributional consequences. Recognition of such frictions is also necessary to accurately measure welfare. We build a model of school applications, allowing applicants to consider only a limited set of schools and to have mistaken beliefs about their admission chances. Quasi-experimental variation and rich information in students’ rank-ordered lists enable identification. Utilizing this model, we evaluate the impacts of centralized school choice in New York City on racial segregation and equity in welfare, decomposing the contributions of the frictions and the preferences of students and schools. We also quantify matching stability and deviations from truthful reporting. Our results show that while school choice improves welfare across races, limited consideration substantially compromises these gains, particularly for Black and Hispanic students. A counterfactual policy involving personalized school recommendations designed using our model is projected to recover 20–36% of the welfare losses.
+
+- **[Externality of driving luxury vehicles and optimal taxation]({{ liability_insurance }})** (with [Suk Joon Son](https://sites.google.com/view/sukjoon-son) and [Jintaek Song](https://sites.google.com/view/songjintaek))
+
+  **Abstract**: Under tort law, where the at-fault driver is responsible for the repair costs of another party, driving a luxury vehicle with higher repair costs creates a negative externality. A Pigouvian tax on luxury vehicles, or a vehicle-value-based premium, can internalize this externality. Using novel micro-level automobile sales and repair cost data, and exploiting the introduction of a luxury vehicle tax in British Columbia, we find that for each dollar in vehicle cost, there is an externality of $0.10. Additionally, the luxury vehicle tax shifts people to buy less expensive cars with lower repair costs. We estimate a structural model to show that the optimal tax would increase welfare by 0.8% of the British Columbia automobile industry, extrapolating to $8 billion in the US automobile market.
 
 - **[Computationally feasible identification-robust inference on discrete choice demand]({{ jmp_pdf }})** _Job Market Paper_
 
