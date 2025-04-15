@@ -14,6 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a Senior Economist at Compass Lexecon (Washington, DC). I received my PhD in Economics from Yale University in May 2024. My research interests include Industrial Organization and Applied Econometrics.
+Hi, I am an Associate Economist at Econic Partners (Washington, DC). I received my PhD in Economics from Yale University in May 2024. My research interests include Industrial Organization and Applied Econometrics.
 
-**E-mail**: <jaewon.lee@compasslexecon.com>
+**E-mail**: <jlee1@econicpartners.com>
