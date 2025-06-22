@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am an Associate Economist at Econic Partners (Washington, DC). I received my PhD in Economics from Yale University in May 2024. My research interests include Industrial Organization and Applied Econometrics.
 
-**E-mail**: <jlee1@econicpartners.com>
+**E-mail**: <jlee1@econic.com>
